@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 .env
 data/
+*.duckdb
+*.duckdb.wal
+*.duckdb-shm
+*.wal
+*.shm
