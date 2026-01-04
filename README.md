@@ -13,3 +13,9 @@
 - Funnel conversion by step
 - Cohort retention
 - A/B test simulation + interpretation (Type I/II, p-hacking, peeking)
+
+## How to run locally
+
+1) Install dependencies
+```bash
+pip install -r requirements.txt
