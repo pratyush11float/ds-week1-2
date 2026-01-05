@@ -7,25 +7,24 @@
 
 ## Key metrics (overall)
 - Average DAU: 567.87
-- Average conversion (active → purchase same day): 19.25%
+- Average conversion (active → purchase same day): 2.357%
 - Total revenue (period): 10767.02
 
 ## Funnel findings
-- Overall view→purchase conversion: [X%]
-- Biggest drop-off step: [step] ([rate])
+- Overall view→purchase conversion: 19.25%
+- Biggest drop-off step: 'checkout_to_purchase', '40.70%'
 - Segment notes (device/country):
-  - [segment] has lowest [step] conversion: [value]
+  - 'android' has lowest 'checkout_to_purchase' conversion: 36.93%
   - Hypothesis: [e.g., mobile UX friction, payment issues, performance]
 
 ## Retention findings
-- Week 0 retention (median cohort): [X%]
-- Week 1 retention (median cohort): [Y%]
+- Week 0 retention (median cohort): 64.44%
+- Week 1 retention (median cohort): 66.09%
 - Notable cohort behavior: [e.g., one cohort higher; explain likely reason/data artifact]
 
 ## Recommended actions
-1) [Action] to improve [funnel step], e.g., reduce checkout friction / improve cart UX
-2) [Action] targeting [segment], e.g., Android-specific performance fixes
-3) Instrumentation: add tracking for [missing events] to validate hypotheses
+1) Action to improve checkout_to_purchase, e.g., reduce checkout friction / improve cart UX / check discount codes
+2) Action targeting android, e.g., Android-app performance fixes
 
 ## Proposed A/B test
 - Hypothesis: [e.g., streamlined checkout increases purchase conversion]
