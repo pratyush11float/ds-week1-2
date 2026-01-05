@@ -19,3 +19,6 @@
 1) Install dependencies
 ```bash
 pip install -r requirements.txt
+
+## LLM evaluation mini-task
+- `notebooks/03_llm_eval.ipynb`: classification task + metrics + confusion matrix + error analysis + prompt iteration
